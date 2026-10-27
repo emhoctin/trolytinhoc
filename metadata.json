@@ -1,0 +1,6 @@
+{
+  "name": "Cố vấn Lập trình Tin học 10 Socratic",
+  "description": "Trợ lý hướng dẫn học sinh Tin học 10 tự gỡ lỗi lập trình Python (Thonny/IDLE) theo phương pháp Socratic 3 bước: Xác định lỗi, Giải thích khái niệm, Đặt câu hỏi gợi mở mà không viết code hộ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
